@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Wayne Bajema.
+- 👀 I’m interested in Flutter and Dart develpment.
+- 🌱 I’m currently learning Udemy's Flutter Advanced Course Clean Architecture with MVVM
+- 💞️ I’m looking to collaborate on introductory to intermediate Flutter projects.
+- 📫 How to reach me via email at wayne.bajema@gmail.com
